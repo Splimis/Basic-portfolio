@@ -18,6 +18,7 @@ body {
 	Times, Times New Roman, bold, serif;
 	font-size: 2em;
 	color :#4aaaa5;
+	font-weight: bold;
 }	
 
 
@@ -64,6 +65,7 @@ h2 {
 	padding-top: 30px;
 	margin-top: -50px;
 	padding: 40px;
+	font-weight: bold;
 
 
 }
@@ -93,6 +95,9 @@ div {
 	padding: 20px;
 	text-align: center;
   font-size: 1.4em;
+  font-weight: bold;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+
 	
 }		
 
@@ -136,8 +141,9 @@ a {
 display: inline;
 border-right: 1px;
 border-style: solid;
-border-right-color: #777777;
+border-right-color: lightgray;
 padding-right: 5px;
+
 
 }
 
@@ -180,6 +186,8 @@ input[type="submit"] {
   left: 603px;
   text-align: center;
   font-size: 1.4em;
+  font-weight: bold;
+  font-family: 'Georgia', Times, Times New Roman, serif;
 
 }
 
